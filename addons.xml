@@ -3,8 +3,6 @@
 <addon id="plugin.program.dazwizard" name="Daz Wizard" version="1.0" provider-name="Daz">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.six"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
