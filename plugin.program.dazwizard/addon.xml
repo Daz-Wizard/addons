@@ -17,7 +17,7 @@
         <description lang="en">[COLOR limegreen][B]Daz[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/daz-wizard/plugin.program.dazwizard/</source>
+        <source>https://www.github.com/Daz-Wizard/addons/plugin.program.dazwizard/</source>
         <news>
         1.2.8
          - Add Gaia PM OAuth
