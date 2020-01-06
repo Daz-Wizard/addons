@@ -13,17 +13,8 @@
   <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR limegreen][B]Daz[/B][/COLOR]Wizard</summary>
         <description lang="en">[COLOR limegreen][B]Daz[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
-        <platform>all</platform>
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/Daz-Wizard</source>
-        <news>
-        1.0.0
-         - Initial Commit
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
-        </assets>
+
+	 <platform>all</platform>
     </extension>
 </addon>
 
@@ -37,14 +28,4 @@
          - Fix some issues with old settings
 		<datadir zip="true">https://github.com/Daz-Wizard/addons/raw/master/</datadir>
          - Fix timing on many startup tasks
-	</extension>
-        1.2.7
-	<extension point="xbmc.addon.metadata">
-         - Add TheMovieDb Helper
-		<summary>Daz Wizard Repository</summary>
-        1.2.6
-		<description>Daz Wizard Repository</description>
-         - Fix Seren PM OAuth    
-		<platform>all</platform>
-        1.2.5
 	</extension>
