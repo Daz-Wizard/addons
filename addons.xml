@@ -11,8 +11,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Daz Wizard</summary>
-    <description lang="en">Daz Wizard allows you to get access to the latest Daz Custom Builds.</description>
+    <summary lang="en">[COLOR limegreen][B]Daz[/B][/COLOR]Wizard</summary>
+    <description lang="en">[COLOR limegreen][B]Daz[/B][/COLOR]Wizard allows you to get access to the latest Daz Custom Builds.</description>
     <platform>all</platform>
   </extension>
 </addon>
